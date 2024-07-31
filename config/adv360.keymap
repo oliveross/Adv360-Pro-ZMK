@@ -95,11 +95,11 @@
 
         layer_5 {
             bindings = <
-&trans  &trans          &trans            &trans        &trans            &trans            &trans                                             &trans   &trans     &trans    &trans    &trans  &trans     &trans
-&trans  &trans          &trans            &trans        &trans            &trans            &trans                                             &trans   &kp GRAVE  &trans    &trans    &trans  &trans     &trans
-&trans  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND  &hm LEFT_SHIFT G  &tog 4  &trans  &trans      &trans  &trans         &to 0    &trans     &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans
-&trans  &trans          &trans            &trans        &trans            &trans                            &trans      &trans                          &kp TAB    &trans    &trans    &trans  &trans     &trans
-&trans  &trans          &trans            &trans        &trans                              &trans  &trans  &trans      &trans  &kp BACKSPACE  &kp TAB             &trans    &trans    &trans  &trans     &trans
+&trans  &trans          &trans            &trans        &trans            &trans            &trans                                             &trans   &trans     &trans    &trans    &trans     &trans     &trans
+&trans  &trans          &trans            &trans        &trans            &trans            &trans                                             &trans   &kp GRAVE  &trans    &trans    &trans     &trans     &trans
+&trans  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND  &hm LEFT_SHIFT G  &tog 4  &trans  &trans      &trans  &trans         &to 0    &kp LEFT   &kp DOWN  &kp UP    &kp RIGHT  &trans     &trans
+&trans  &trans          &trans            &trans        &trans            &trans                            &trans      &trans                          &kp TAB    &trans    &trans    &trans     &trans     &trans
+&trans  &trans          &trans            &trans        &trans                              &trans  &trans  &trans      &trans  &kp BACKSPACE  &kp TAB             &trans    &trans    &trans     &trans     &trans
             >;
         };
 
